@@ -186,7 +186,6 @@ var model = {
         } else {
             return badSpots[Math.floor(Math.random()*badSpots.length)];
         }
-
     }
 };
 
